@@ -29,7 +29,7 @@ The following software tools are required for developing and programming the AVR
 - AVR development environment (Eclipse)
 - Appropriate AVR programming language ( C programming language)
 
-## ![Proteus simulation](video/project1.jpg)
+## ![Proteus simulation](https://github.com/Emanabdelhamid241/AVR-Projects/blob/main/Login%20System%20With%20Dashboard%20Motors/video/project1.png)
 
 ## ![simulation video](https://github.com/Emanabdelhamid241/AVR-Projects/blob/main/Login%20System%20With%20Dashboard%20Motors/video/deahboardmotorvideo.mp4)
 
